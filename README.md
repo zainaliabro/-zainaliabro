@@ -11,10 +11,12 @@ I'm a developer who is passionate about building useful and modern software.
 
 ## 🛠️ Skills
 
-- HTML
-- CSS
+- PYTHON
+- JAVA
 - JavaScript
-- Git & GitHub
+- PHP
+- LARAVEL
+- ANGULAR-REACT
 
 ## 📌 Projects
 
