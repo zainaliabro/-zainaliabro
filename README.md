@@ -13,10 +13,11 @@ I'm a developer who is passionate about building useful and modern software.
 
 - PYTHON
 - JAVA
-- JavaScript
+- JAVA-SCRIPT
 - PHP
 - LARAVEL
 - ANGULAR-REACT
+  
 
 ## 📌 Projects
 
